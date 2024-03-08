@@ -1,0 +1,27 @@
+* dad4872 agregando parrafos (2)
+* b5c41ef agregando estaciones del año con fecha
+*   86175ff resolviendo conflictos en index.html
+|\  
+| * 06d35d8 agregando index.js al index.html
+* | c432726 agregando style.css al index.html
+* |   8eef5af Merge branch 'js'
+|\ \  
+| * | b692577 creano index.js
+* | |   95d908c Merge branch 'css' se meclaron los cambios
+|\ \ \  
+| * | | aea94f5 creando style.css
+| | |/  
+| |/|   
+* | | 9291847 pruebas
+|\| | 
+| |/  
+|/|   
+| * bfad3b2 login.html
+| * 3f2ad55 versionado de codigo, archukivo html
+* | 99626ef cambios
+|/  
+* e3dbbf9 ignorando archivos
+* b58634c Create LICENSE
+* 2df3712 agregando mas contenido al redme
+* 18768a3 Agregando contenido inicial al README
+* b5a165d Primer commit 😒😁

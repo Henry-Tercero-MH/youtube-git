@@ -1,0 +1,114 @@
+commit dad487226b88687032dc2d03c25eccf28901d355
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Fri Mar 8 11:16:44 2024 -0600
+
+    agregando parrafos (2)
+
+commit b5c41efa0669a637dbcf980a7452c29de213c532
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Thu Mar 7 20:32:13 2024 -0600
+
+    agregando estaciones del año con fecha
+
+commit 86175fff20b6aae3b2e5fe0d87e848ba07fb4b4e
+Merge: c432726 06d35d8
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Thu Mar 7 19:22:51 2024 -0600
+
+    resolviendo conflictos en index.html
+
+commit 06d35d82f5ab3370a71de8197fccd54af8dd5660
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Thu Mar 7 19:13:12 2024 -0600
+
+    agregando index.js al index.html
+
+commit c432726a61910f2b1b06dd96be0d8ab801a133e5
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Thu Mar 7 19:08:04 2024 -0600
+
+    agregando style.css al index.html
+
+commit 8eef5aff6ba0542e54c5365dae77f2727e9203ad
+Merge: 95d908c b692577
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 20:27:29 2024 -0600
+
+    Merge branch 'js'
+
+commit 95d908c684fbbe406dc14ffe7ae53e87b5cbac39
+Merge: 9291847 aea94f5
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 20:24:16 2024 -0600
+
+    Merge branch 'css'
+    se meclaron los cambios
+
+commit 92918477c89b6237bda75cd6db14262888990dd8
+Merge: 99626ef bfad3b2
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 20:14:31 2024 -0600
+
+    pruebas
+
+commit b6925770533ada18839cc3ee26272ad074c25ef0
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 19:53:45 2024 -0600
+
+    creano index.js
+
+commit aea94f5b0c8538c7f566b9fdfadaf31cb359fe44
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 19:31:06 2024 -0600
+
+    creando style.css
+
+commit bfad3b2b97abbce4c55b8125b1abe844ea08a211
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 16:21:17 2024 -0600
+
+    login.html
+
+commit 99626ef18fe0346e096ddfa2c5dc6c22456063f6
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 16:19:53 2024 -0600
+
+    cambios
+
+commit 3f2ad55a06647199d942690bdb4646dc00499451
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 15:47:53 2024 -0600
+
+    versionado de codigo, archukivo html
+
+commit e3dbbf963d1a65ef6b4639dc72037ba24647011b
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Wed Mar 6 14:25:58 2024 -0600
+
+    ignorando archivos
+
+commit b58634c9b1d72d669246b4c52aab938dd88dd74a
+Author: Henry-Tercero-MH <109841059+Henry-Tercero-MH@users.noreply.github.com>
+Date:   Mon Mar 4 16:05:21 2024 -0600
+
+    Create LICENSE
+    
+    Creando licencia del repositorio
+
+commit 2df37120484264f157ee4800f48cf63c7fe83049
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Sun Mar 3 20:32:54 2024 -0600
+
+    agregando mas contenido al redme
+
+commit 18768a3c473fa92c0b52b123cd849a172e634b75
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Sun Mar 3 16:08:13 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit b5a165dfd5b1317b04ea2c8d1077e24d4e2c31c9
+Author: Henry-Tercero-MH <tercerohernandezhenrymisael@gmail.com>
+Date:   Sun Mar 3 15:59:57 2024 -0600
+
+    Primer commit 😒😁
